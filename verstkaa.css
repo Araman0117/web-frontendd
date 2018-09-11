@@ -1,9 +1,13 @@
 .blue {
 	background-color: #A1ECD8;
-	style="float: left;"
+	
 	height: 960px;
 	width: 960px;
-
+	
+	margin-left: 50px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	margin-right: 50px;
 }
 
 .green {
@@ -12,6 +16,10 @@
 	height: 960px;
 	width: 360px;
 	
+	margin-left: 50px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	margin-right: 50px;
 }
 
 .red {
@@ -20,15 +28,8 @@
 	height: 960px;
 	width: 360px;
 	
-}
-
-.block {
-	
-	margin-left: 70px;
+	margin-left: 50px;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	margin-right: 50px;
-	
-	style="float: left;"
-	
 }
