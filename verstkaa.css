@@ -1,0 +1,34 @@
+.blue {
+	background-color: #A1ECD8;
+	style="float: left;"
+	height: 960px;
+	width: 960px;
+
+}
+
+.green {
+	background-color: #7BBF71;
+	
+	height: 960px;
+	width: 360px;
+	
+}
+
+.red {
+	background-color: #CC7F62;
+	
+	height: 960px;
+	width: 360px;
+	
+}
+
+.block {
+	
+	margin-left: 70px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	margin-right: 50px;
+	
+	style="float: left;"
+	
+}
