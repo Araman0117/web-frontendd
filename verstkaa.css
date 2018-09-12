@@ -5,37 +5,33 @@
 .blue {
 	background-color: #A1ECD8;
 	
-	height: 960px;
-	width: 960px;
+	height: 840px;
+	width: 840px;
 	
 	margin-left: 70px;
-	margin-top: 60px;
-	margin-bottom: 60px;
-	margin-right: 25px;
+	
+	margin-top: 40px;
+	
+	margin-right: 40px;
 }
-
 .green {
 	background-color: #7BBF71;
 	
-	height: 960px;
-	width: 360px;
+	height: 840px;
+	width: 420px;
 	
-	margin-left: 25px;
-	margin-top: 60px;
-	margin-bottom: 60px;
-	margin-right: 25px;
+	margin-top: 40px;
+	
+	margin-right: 40px;
 }
 
 .red {
 	background-color: #CC7F62;
 	
-	height: 960px;
-	width: 360px;
+	height: 840px;
+	width: 420px;
 	
-	margin-left: 25px;
-	margin-top: 60px;
-	margin-bottom: 60px;
-	margin-right: 70px;
+	margin-top: 40px;
 }
 
 }
@@ -82,7 +78,44 @@
 }
 
 
-@media (min-width: 768px) and (max-width: 1365px) {
+@media (min-width: 1280px) and (max-width: 1365px)  {
+	
+.blue {
+	background-color: #A1ECD8;
+	
+	height: 840px;
+	width: 840px;
+	
+	margin-left: 70px;
+	
+	margin-top: 40px;
+	
+	margin-right: 40px;
+}
+.green {
+	background-color: #7BBF71;
+	
+	height: 840px;
+	width: 420px;
+	
+	margin-top: 40px;
+	
+	margin-right: 40px;
+}
+
+.red {
+	background-color: #CC7F62;
+	
+	height: 840px;
+	width: 420px;
+	
+	margin-top: 40px;
+}
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1279px) {
 	
 .blue {
 	background-color: #A1ECD8;
