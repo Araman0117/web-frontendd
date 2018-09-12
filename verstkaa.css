@@ -1,4 +1,15 @@
 
+div {
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.kostya {
+	
+	display:flex;
+	flex-direction:row;
+}
 
 @media (min-width: 1920px) {
 	
